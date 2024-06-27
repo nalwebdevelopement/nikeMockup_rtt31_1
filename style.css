@@ -1,0 +1,40 @@
+
+
+.navbar
+{
+    border: solid blue;
+    height: 12vh;
+    display: flex;
+    justify-content: space-between ;
+
+    
+}
+.navbar1
+{
+    border: solid rgb(213, 14, 133);
+    height: 12vh;
+    display: flex;
+    justify-content: space-between ;
+   
+    
+}
+.search
+{
+    margin-top:5px;
+    width:50%;
+    display:flex;
+    justify-content: space-evenly;  
+}
+.mainbar
+{
+    border: solid green;
+    height: 42vh;
+}
+.logo
+{
+    height:70px;
+}   
+.icon
+{
+    height:70px;
+}
